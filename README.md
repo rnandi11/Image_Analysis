@@ -1,4 +1,4 @@
-# 3D Mesh Volume
+# 3Dmesh_hmap 
 **Goal**: to measure the cell volume from 3D segmented cells in two different methods, and compare the differences. One is the **exact cell volume**, and the other is an approximation where cells are assumed to be straight, columnar (with the same area across the height of the cell) and volume is measured as the **product of the area and height**.
 
 
